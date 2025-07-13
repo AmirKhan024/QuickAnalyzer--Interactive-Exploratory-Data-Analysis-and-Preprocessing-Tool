@@ -5,6 +5,9 @@ QuickAnalyzer is a powerful, interactive, and beginner-friendly web application 
 
 Whether you're a data science student, analyst, or enthusiast, QuickAnalyzer simplifies the tedious and repetitive parts of data preparation so you can focus on what matters—insights.
 
+## Live Demo 
+[QuickAnalyzer](https://quickanalyzer-interactive-exploratory.onrender.com)
+
 ## Features 
 A. Upload datasets in .csv format
 
